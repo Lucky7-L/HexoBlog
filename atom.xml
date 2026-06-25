@@ -9,7 +9,7 @@
   <link href="https://luckyliu.top/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, LuckyLiu</rights>
   <title>LuckyLiu's Blog</title>
-  <updated>2026-06-25T06:46:27.009Z</updated>
+  <updated>2026-06-25T08:21:04.582Z</updated>
   <entry>
     <author>
       <name>LuckyLiu</name>
@@ -20,7 +20,7 @@
     <published>2026-06-25T06:33:57.000Z</published>
     <summary>“死亡不是终点，遗忘才是”</summary>
     <title>《寻梦环游记》影评</title>
-    <updated>2026-06-25T06:46:27.009Z</updated>
+    <updated>2026-06-25T08:21:04.582Z</updated>
   </entry>
   <entry>
     <author>
@@ -30,9 +30,8 @@
     <id>https://luckyliu.top/2026/06/25/%E6%9C%9F%E6%9C%AB%E5%91%A8/</id>
     <link href="https://luckyliu.top/2026/06/25/%E6%9C%9F%E6%9C%AB%E5%91%A8/"/>
     <published>2026-06-25T06:09:14.000Z</published>
-    <summary>期末周，是最后的冲刺阶段，也是最煎熬的阶段。</summary>
     <title>期末周</title>
-    <updated>2026-06-25T06:46:20.248Z</updated>
+    <updated>2026-06-25T08:20:57.786Z</updated>
   </entry>
   <entry>
     <author>
@@ -47,7 +46,7 @@
     <published>2026-06-25T06:08:39.000Z</published>
     <summary>没有什么是一顿火锅解决不了的，如果有，那就两顿。</summary>
     <title>火锅篇</title>
-    <updated>2026-06-25T06:45:53.841Z</updated>
+    <updated>2026-06-25T08:18:52.410Z</updated>
   </entry>
   <entry>
     <author>
@@ -59,19 +58,20 @@
     <published>2026-06-25T06:07:36.000Z</published>
     <summary>复刻小智Ai，让你的生活更有趣</summary>
     <title>复刻小智Ai</title>
-    <updated>2026-06-25T06:46:06.059Z</updated>
+    <updated>2026-06-25T08:20:14.331Z</updated>
   </entry>
   <entry>
     <author>
       <name>LuckyLiu</name>
     </author>
     <category term="学习笔记" scheme="https://luckyliu.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="STM32F103C8T6" scheme="https://luckyliu.top/tags/STM32F103C8T6/"/>
     <id>https://luckyliu.top/2026/06/25/STM32%E5%85%A5%E9%97%A8/</id>
     <link href="https://luckyliu.top/2026/06/25/STM32%E5%85%A5%E9%97%A8/"/>
     <published>2026-06-25T06:06:01.000Z</published>
     <summary>STM32微控制器入门学习笔记</summary>
     <title>STM32入门</title>
-    <updated>2026-06-25T06:50:31.943Z</updated>
+    <updated>2026-06-25T08:24:03.869Z</updated>
   </entry>
   <entry>
     <author>
@@ -81,9 +81,9 @@
     <id>https://luckyliu.top/2026/06/25/%E9%82%A3%E5%8F%A5%E6%B2%A1%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%E6%8A%B1%E6%AD%89/</id>
     <link href="https://luckyliu.top/2026/06/25/%E9%82%A3%E5%8F%A5%E6%B2%A1%E8%AF%B4%E5%87%BA%E5%8F%A3%E7%9A%84%E6%8A%B1%E6%AD%89/"/>
     <published>2026-06-25T06:04:32.000Z</published>
-    <summary>有些话，明明想说，却总是没能说出口。那句抱歉，也许会在心里默默地说上千遍，但终究还是没能说出口。</summary>
-    <title>那句没说出口的抱歉</title>
-    <updated>2026-06-25T06:46:14.594Z</updated>
+    <summary>有些人</summary>
+    <title>不思量，自难忘</title>
+    <updated>2026-06-25T08:20:42.764Z</updated>
   </entry>
   <entry>
     <author>
@@ -106,6 +106,9 @@
       <name>LuckyLiu</name>
     </author>
     <category term="学习笔记" scheme="https://luckyliu.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="Hexo" scheme="https://luckyliu.top/tags/Hexo/"/>
+    <category term="GitHUb Page" scheme="https://luckyliu.top/tags/GitHUb-Page/"/>
+    <category term="静态博客" scheme="https://luckyliu.top/tags/%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
     <content>
       <![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上周偶然在网上看到一个博主的博客心想自己也要整一个用来学习和生活记录在查找了诸多资料后决定采用Hexo+GitHUb Page的方式先搭建一个静态博客</p><h2 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a>一、准备工作</h2><p>Hexo运行需要两个工具分别是：<strong>Node.js</strong>（运行环境）和<strong>Git</strong>（版本控制和部署工具）</p><ol><li>安装Node.js<br> 访问<a href="https://nodejs.org/zh-cn/">Node.js官网</a>，下载LTS（长期支持版）。</li><li>安装Git<br> 访问<a href="https://git-scm.com/install/">Git官网</a>,安装时记得勾选’Add a Git Bash Here to the conyext menu’。<br> 全部安装完Win+R输入cmd回车打开终端依次输入一下命令 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br><span class="line">git -v</span><br></pre></td></tr></table></figure> 如果分别显示版本号说明安装成功</li></ol><h2 id="二、搭建Hexo博客"><a href="#二、搭建Hexo博客" class="headerlink" title="二、搭建Hexo博客"></a>二、搭建Hexo博客</h2><p>在命令行中输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo cli</span><br></pre></td></tr></table></figure>]]>
     </content>
@@ -116,6 +119,6 @@
       <![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上周偶然在网上看到一个博主的博客心想自己也要整一个用来学习和生活记录在查找了诸多资料后决定采用Hexo+GitHUb Page的方式先搭建一]]>
     </summary>
     <title>个人博客搭建</title>
-    <updated>2026-06-25T06:45:59.483Z</updated>
+    <updated>2026-06-25T08:24:35.782Z</updated>
   </entry>
 </feed>
