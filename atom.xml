@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>LuckyLiu</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://luckyliu.top/</id>
+  <link href="https://luckyliu.top/" rel="alternate"/>
+  <link href="https://luckyliu.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, LuckyLiu</rights>
+  <title>LuckyLiu's Blog</title>
+  <updated>2026-06-24T01:45:44.334Z</updated>
+  <entry>
+    <author>
+      <name>LuckyLiu</name>
+    </author>
+    <content>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]>
+    </content>
+    <id>https://luckyliu.top/2026/06/24/hello-world/</id>
+    <link href="https://luckyliu.top/2026/06/24/hello-world/"/>
+    <published>2026-06-24T01:45:44.334Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-06-24T01:45:44.334Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>LuckyLiu</name>
+    </author>
+    <category term="学习笔记" scheme="https://luckyliu.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <content>
+      <![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上周偶然在网上看到一个博主的博客心想自己也要整一个用来学习和生活记录在查找了诸多资料后决定采用Hexo+GitHUb Page的方式先搭建一个静态博客</p><h2 id="一、准备工作"><a href="#一、准备工作" class="headerlink" title="一、准备工作"></a>一、准备工作</h2><p>Hexo运行需要两个工具分别是：<strong>Node.js</strong>（运行环境）和<strong>Git</strong>（版本控制和部署工具）</p><ol><li>安装Node.js<br> 访问<a href="https://nodejs.org/zh-cn/">Node.js官网</a>，下载LTS（长期支持版）。</li><li>安装Git<br> 访问<a href="https://git-scm.com/install/">Git官网</a>,安装时记得勾选’Add a Git Bash Here to the conyext menu’。<br> 全部安装完Win+R输入cmd回车打开终端依次输入一下命令 <figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">node -v</span><br><span class="line">npm -v</span><br><span class="line">git -v</span><br></pre></td></tr></table></figure> 如果分别显示版本号说明安装成功</li></ol><h2 id="二、搭建Hexo博客"><a href="#二、搭建Hexo博客" class="headerlink" title="二、搭建Hexo博客"></a>二、搭建Hexo博客</h2><p>在命令行中输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo cli</span><br></pre></td></tr></table></figure>]]>
+    </content>
+    <id>https://luckyliu.top/2026/06/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</id>
+    <link href="https://luckyliu.top/2026/06/21/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <published>2026-06-21T08:31:14.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>上周偶然在网上看到一个博主的博客心想自己也要整一个用来学习和生活记录在查找了诸多资料后决定采用Hexo+GitHUb Page的方式先搭建一]]>
+    </summary>
+    <title>个人博客搭建</title>
+    <updated>2026-06-22T02:19:20.000Z</updated>
+  </entry>
+</feed>
